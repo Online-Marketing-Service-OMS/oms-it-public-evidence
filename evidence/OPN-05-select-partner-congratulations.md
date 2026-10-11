@@ -1,23 +1,31 @@
 # OPN-05 — Select Partner Status Communication
 
 **Evidence class:** Issuer-originated partner communication  
+**Source:** OpenAI Partner Network `<openaipartnernetwork@openai.com>`  
+**Date:** 30 September 2026  
 **Organization addressed:** Online Marketing Service (OMS) team  
 **Status named:** OpenAI Select Partner
 
 ## Evidence summary
 
-The supplied OpenAI Partner Network communication congratulates the Online Marketing Service (OMS) team on reaching Select Partner status in the OpenAI Partner Network.
+The supplied OpenAI Partner Network communication congratulates the Online Marketing Service (OMS) team on earning **OpenAI Select Partner** status in the OpenAI Partner Network.
 
-It also provides external sharing guidance and identifies the approved public status wording as **OpenAI Select Partner**.
+It provides approved external-sharing guidance and states that the public status wording should be **OpenAI Select Partner**.
 
-The communication refers to a partner social pack containing a Select Partner badge, press-release template, and sharing guidance.
+The communication also confirms that the partner social pack includes:
 
-## Source integrity
+- an OpenAI Select Partner badge in multiple formats;
+- a press-release template;
+- social copy and sharing guidance.
 
-SHA-256 of the supplied source screenshot:
-
-`edf7ab0c19c7c5caf5c61c39a48f7bf3c5f61a56df63859dd12378c77635cafe`
+It further states that the badge may be used in external contexts including the organization's **website or partner page**, LinkedIn posts, newsroom announcements, event materials, email signatures, and customer-facing presentations, subject to the partner brand guidelines.
 
 ## Claim supported
 
-This evidence supports the organization-level statement that Online Marketing Service (OMS IT) reached OpenAI Select Partner status. It does not establish product-level endorsement or certification.
+This evidence directly supports the organization-level statement that Online Marketing Service (OMS IT) earned OpenAI Select Partner status and that OMS IT may use the supplied Select Partner badge in the approved external contexts.
+
+It does not establish product-level OpenAI endorsement, certification, sponsorship, authorization, or approval.
+
+## Source handling
+
+The underlying email and original badge/social-pack attachments are retained privately by OMS IT. Public use should follow the applicable partner brand guidelines and preserve the organization-level scope of the status.
