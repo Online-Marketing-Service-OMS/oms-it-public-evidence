@@ -1,26 +1,26 @@
 # OpenAI Partner Network Evidence Pack
 
-This directory contains public-safe evidence records supporting the organization-level statement that Online Marketing Service (OMS IT) holds OpenAI Select Partner status.
+This directory contains public-safe evidence records supporting the organization-level statement that **Online Marketing Service (OMS IT) holds OpenAI Select Partner status**.
 
-## Public evidence included
+## Evidence records
 
-- `OPN-02-partner-portal-agreements-redacted.png` — cropped public-safe view of the authenticated Partner Portal Agreements page showing Online Marketing Service (OMS) and Select Partner.
-- `OPN-03-onboarding-complete-redacted.png` — cropped public-safe view of the Partner Network onboarding page showing Select Partner and completion status.
-- `OPN-04-learning-badges-redacted.png` — cropped public-safe view of the Partner Portal learning/badges page showing the OMS organization header and Select Partner tier while excluding the member-level table.
-- `OPN-05-select-partner-congratulations.png` — supplied OpenAI Partner Network congratulatory communication stating that Online Marketing Service (OMS) reached OpenAI Select Partner status.
+- [`OPN-01-validation-letter.md`](./OPN-01-validation-letter.md) — 6 October 2026 validation-letter record. The raw PDF is not published because the supplied document contains a confidentiality/proprietary notice.
+- [`OPN-02-partner-portal-agreements.md`](./OPN-02-partner-portal-agreements.md) — authenticated Partner Portal Agreements-page record.
+- [`OPN-03-onboarding-complete.md`](./OPN-03-onboarding-complete.md) — authenticated onboarding-completion record.
+- [`OPN-04-learning-badges.md`](./OPN-04-learning-badges.md) — authenticated Learning/Badges portal record.
+- [`OPN-05-select-partner-congratulations.md`](./OPN-05-select-partner-congratulations.md) — Select Partner status communication record.
+- [`PROVENANCE.md`](./PROVENANCE.md) — SHA-256 integrity manifest for the reviewed source files.
 
-## Evidence intentionally not published raw
+## Why raw authenticated sources are not all published
 
-### OPN-01 — Partner Validation Letter
+The supplied portal captures include personal/admin details, authenticated account context, browser information, member-level contact data, or agreement content. This repository therefore publishes structured factual records and integrity hashes rather than exposing unnecessary private or restricted material.
 
-OMS IT supplied a PDF dated 6 October 2026 that states Online Marketing Service (OMS) is an active member of the OpenAI Partner Network at the Select tier. The supplied PDF also contains a confidentiality/proprietary notice, so the raw document is not published in this repository. The repository records a structured summary and cryptographic hash instead.
+A future public-safe image set may be added only after cropping/redaction preserves the evidentiary content while removing unrelated or sensitive information.
 
-Source-file SHA-256:
+## Evidence hierarchy
 
-`0c703d1cccd7627c3363d3afa27a8eb0338f5d990fa09e4e56d8799c0e4f2c3d`
+Authenticated Partner Portal records and issuer-originated communications provide stronger source support than OMS IT's own public statements. An OpenAI-controlled **public** partner profile/directory listing, if available, remains the strongest independent public verification surface and should be linked directly.
 
-## Integrity and claim boundary
+## Claim boundary
 
-These files support only the organization-level OpenAI Partner Network status described in this repository. They do not establish OpenAI endorsement, certification, sponsorship, approval, or guarantee of OMS IT products, BD AI, OMS Nexus, customer projects, applications, courses, publications, websites, or services.
-
-Authenticated portal screenshots are first-party authenticated evidence, but an OpenAI-controlled public partner profile or directory listing remains the strongest independent public verification source when available.
+These records support only the organization-level Partner Network status described here. They do not establish OpenAI endorsement, certification, sponsorship, approval, or guarantee of OMS IT products, BD AI, OMS Nexus, customer projects, applications, courses, publications, websites, or services.
