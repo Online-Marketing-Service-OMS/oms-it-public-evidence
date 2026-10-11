@@ -2,18 +2,29 @@
 
 **Online Marketing Service (OMS IT™)** is a Bangladesh-based technology and engineering organization.
 
+- **Official website:** https://omsitbd.com
+- **Contact:** info@omsitbd.com
+- **OpenAI Partner Network tier:** **Select**
+- **OMS-recorded Partner ID:** **OPN-W6K9**
+- **Status scope:** Organization-level only
+
 This repository is the public-evidence layer for OMS IT. It preserves clear, reviewable references for organization identity, OpenAI Partner Network status, public project relationships, and externally shareable evidence.
 
-> **Important evidence rule:** this repository contains OMS-controlled public records derived from first-party portal evidence, issuer-originated communications, and public-safe summaries. An OpenAI-controlled public webpage remains the strongest independent public verification source when one is available for the relevant tier.
+> **Evidence rule:** this is an OMS-controlled repository. It contains public-safe records derived from first-party authenticated portal evidence, issuer-originated communications, and OMS-controlled summaries. It is not itself an OpenAI-controlled verification source.
+
+## Start here
+
+- [`PARTNERSHIP-STATUS.md`](./PARTNERSHIP-STATUS.md) — current public partnership status and claim boundaries
+- [`OPENAI_SELECT_PARTNER.md`](./OPENAI_SELECT_PARTNER.md) — structured OpenAI Select Partner evidence record
+- [`EVIDENCE_INDEX.md`](./EVIDENCE_INDEX.md) — evidence references, dates, source classes and verification notes
+- [`DOCUMENT-INDEX.md`](./DOCUMENT-INDEX.md) — public document map
+- [`VERIFICATION-LIMITATIONS.md`](./VERIFICATION-LIMITATIONS.md) — what the evidence does and does not establish
+- [`ORGANIZATION.md`](./ORGANIZATION.md) — organization identity
+- [`SECURITY.md`](./SECURITY.md) — publication/redaction rules
 
 ## OpenAI Partner Network status
 
 **Public statement:** OMS IT holds **organization-level OpenAI Select Partner status** in the OpenAI Partner Network.
-
-- **Organization:** Online Marketing Service (OMS IT™)
-- **Tier:** Select
-- **OMS-recorded Partner ID:** **OPN-W6K9**
-- **Scope:** Organization-level status
 
 The status applies to **Online Marketing Service (OMS IT)** as an organization. It does **not** by itself mean that OpenAI has individually approved, certified, endorsed, sponsored, authorized, or guaranteed any OMS IT product, BD AI, OMS Nexus, customer project, application, course, publication, website, or service.
 
@@ -30,34 +41,23 @@ The status applies to **Online Marketing Service (OMS IT)** as an organization. 
 | OPN-07 | OpenAI Partner Marketing Locator clarification — 5 Oct 2026 | New Select partners are **not automatically listed** in the public Partner Locator | Issuer-originated Partner Marketing communication |
 | OPN-08 | OpenAI Partner Network onboarding-completion email — 30 Sep 2026 | OMS completed onboarding and received Partner Network access | Issuer-originated Partner Network communication |
 
-See [`OPENAI_SELECT_PARTNER.md`](./OPENAI_SELECT_PARTNER.md) and [`EVIDENCE_INDEX.md`](./EVIDENCE_INDEX.md) for the structured record.
-
 ## Partner Locator clarification
 
 OpenAI Partner Marketing informed OMS IT that the public Partner Locator is reserved for **Advanced** and **Elite** partners as a tier benefit and that new **Select** partners are not automatically listed.
 
-Accordingly, the absence of OMS IT from the public Partner Locator should **not, by itself, be treated as evidence that OMS IT is not a Select Partner**. See [`OPN-07`](./evidence/OPN-07-public-openai-listing.md).
+Accordingly, absence of OMS IT from the public Partner Locator should **not, by itself, be treated as evidence that OMS IT is not a Select Partner**. See [`OPN-07`](./evidence/OPN-07-public-openai-listing.md).
 
 ## Badge and public wording
 
-OpenAI Partner Network's Select Partner communication states that the approved external status wording is **OpenAI Select Partner** and that the supplied Select Partner badge may be used in approved external contexts including an organization's **website or partner page**, subject to the applicable brand guidelines. See [`OPN-05`](./evidence/OPN-05-select-partner-congratulations.md).
+The evidence record states that the approved external status wording supplied to OMS IT is **OpenAI Select Partner**, with badge use subject to the applicable Partner Network brand guidance. See [`OPN-05`](./evidence/OPN-05-select-partner-congratulations.md).
 
-## What this evidence does and does not establish
+## BD AI relationship
 
-The reviewed evidence supports the specific claim that **Online Marketing Service (OMS IT) holds OpenAI Select Partner status at the organization level**.
-
-It does not automatically establish:
-
-- OpenAI endorsement of OMS IT products or services;
-- OpenAI approval of BD AI or any other independent initiative;
-- certification of individual OMS IT applications;
-- a guarantee of customer outcomes or deliverables;
-- government affiliation;
-- ownership of third-party or client organizations.
+**BD AI is an independent Bangladesh-focused AI initiative developed and operated by OMS IT.** OMS IT's organization-level OpenAI Select Partner status must not be presented as OpenAI approval, certification, endorsement, authorization, sponsorship, or operation of BD AI unless separate authoritative evidence supports that exact claim.
 
 ## Verification model
 
-OMS IT uses the following evidence hierarchy for public claims:
+OMS IT uses this evidence hierarchy for public claims:
 
 1. **OpenAI-controlled public source** — public partner directory/profile or another official OpenAI-hosted public record where applicable.
 2. **OpenAI-controlled authenticated source** — Partner Portal records on `partners.openai.com`.
@@ -65,27 +65,11 @@ OMS IT uses the following evidence hierarchy for public claims:
 4. **OMS IT public evidence repository** — public-safe records, evidence index, dates, and claim boundaries.
 5. **OMS IT website/public communications** — secondary organization-controlled references.
 
-This ordering is intentional: self-published claims are never presented as stronger than a source controlled by the issuing organization.
+Self-published claims are never presented as stronger than a source controlled by the issuing organization.
 
-## Organization identity
+## Public evidence handling
 
-- **Organization:** Online Marketing Service (OMS IT™)
-- **Public name:** OMS IT
-- **Base:** Dhaka, Bangladesh
-- **Official website:** https://omsitbd.com
-- **Technology:** https://omsitbd.com/technology
-- **Contact:** info@omsitbd.com
-
-## Evidence handling
-
-Public evidence is redacted or summarized where necessary. Do not publish passwords, access tokens, session information, private Partner Portal data, customer-confidential information, restricted documents, or unnecessary personal information.
-
-For repository rules and evidence classification, see:
-
-- [`EVIDENCE_INDEX.md`](./EVIDENCE_INDEX.md)
-- [`OPENAI_SELECT_PARTNER.md`](./OPENAI_SELECT_PARTNER.md)
-- [`ORGANIZATION.md`](./ORGANIZATION.md)
-- [`SECURITY.md`](./SECURITY.md)
+Public evidence is redacted or summarized where necessary. Do not publish passwords, API keys, access tokens, session information, private Partner Portal data, customer-confidential information, restricted documents, or unnecessary personal information.
 
 ---
 
