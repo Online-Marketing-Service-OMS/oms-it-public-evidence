@@ -12,6 +12,14 @@ This repository is the public-evidence layer for OMS IT. It preserves clear, rev
 
 > **Evidence rule:** this is an OMS-controlled repository. It contains public-safe records derived from first-party authenticated portal evidence, issuer-originated communications, and OMS-controlled summaries. It is not itself an OpenAI-controlled verification source.
 
+## Organization profile and evidence repository
+
+- [Public GitHub organization](https://github.com/Online-Marketing-Service-OMS)
+- [Organization profile source](https://github.com/Online-Marketing-Service-OMS/.github/blob/main/profile/README.md)
+- [Organization partner-status summary](https://github.com/Online-Marketing-Service-OMS/.github/blob/main/OPENAI_SELECT_PARTNER.md)
+
+The profile provides the organization overview; this repository holds the detailed evidence records. Keeping both linked avoids duplicating the complete evidence set across repositories.
+
 ## Start here
 
 - [`PARTNERSHIP-STATUS.md`](./PARTNERSHIP-STATUS.md) — current public partnership status and claim boundaries
