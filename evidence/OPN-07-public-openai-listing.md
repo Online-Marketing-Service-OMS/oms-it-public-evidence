@@ -14,6 +14,12 @@ The same message states that **new Select partners are not automatically listed*
 
 It also notes that a small number of Select partners may still appear as exceptions because they were early partners from the 2025 program year.
 
+## Follow-up clarification — 7 October 2026
+
+In the same email thread, Partner Marketing clarified that reaching Advanced establishes eligibility; a Locator profile is then prepared and published with their team rather than going live automatically. OMS IT does not need a separate current submission for Select-tier Locator inclusion.
+
+Progression should follow the organization's Tiering dashboard and applicable Policy Guide. PartnerU training/badges, qualifying customer work, and accurately evidenced co-sell/deployment registrations are separate elements; case studies and specializations are not substitutes for tier requirements. This record does not assert numerical targets or tier eligibility.
+
 ## Why this matters
 
 The absence of OMS IT from the public Partner Locator should therefore **not, by itself, be treated as evidence that OMS IT is not a Select Partner**. According to the issuer-originated clarification, public Locator inclusion is not automatic for new Select partners.
