@@ -6,6 +6,12 @@ This repository is the public-evidence layer for OMS IT. It preserves clear, rev
 
 > **Important evidence rule:** this repository contains OMS-controlled public records derived from first-party portal evidence, issuer-originated communications, and public-safe summaries. An OpenAI-controlled public webpage remains the strongest independent public verification source when one is available for the relevant tier.
 
+## Historical engineering evidence — OMS IT & BD AI (2026)
+
+The [public-safe Historical Engineering Evidence Record](./HISTORICAL_ENGINEERING_EVIDENCE_2026.md) and [Historical Archive Index](./HISTORICAL_ARCHIVE_INDEX_2026.md) document the OMS AI → BD AI journey, publicly observed website surfaces, engineering workstreams, internal dated testing, agent-verification boundaries and unresolved gaps.
+
+This is an **organization-maintained historical record**, not an independent endorsement or blanket production-readiness claim. The illustrated office book is **not** the public evidence release; its imagery, unsupported numeric graphics, and private data require separate review before unrestricted publication.
+
 ## OpenAI Partner Network status
 
 **Public statement:** OMS IT holds **organization-level OpenAI Select Partner status** in the OpenAI Partner Network.
